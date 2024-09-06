@@ -19,3 +19,8 @@ far away from the camera are more heavily penalized. Finally, we propose a strat
 advantage of the proposed method over density map-based or common
 Euclidean distance-based optimal transport loss on several multi-view
 crowd localization datasets.
+
+
+## Poster
+
+![poster](https://github.com/zqyq/Mahalanobis-Distance-based-Multi-view-Optimal-Transport-for-Multi-view-Crowd-Localization/blob/main/poster.png)
