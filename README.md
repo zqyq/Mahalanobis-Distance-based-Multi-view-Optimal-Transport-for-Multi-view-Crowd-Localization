@@ -1,6 +1,8 @@
 # Mahalanobis-Distance-based-Multi-view-Optimal-Transport-for-Multi-view-Crowd-Localization
 Mahalanobis Distance-based Multi-view Optimal Transport for Multi-view Crowd Localization, ECCV 2024
 
+![mvot](https://github.com/zqyq/Mahalanobis-Distance-based-Multi-view-Optimal-Transport-for-Multi-view-Crowd-Localization/blob/main/mvot.png)
+
 ## Abstract
 Multi-view crowd localization predicts the ground locations of all people in the scene. Typical methods usually estimate the crowd
 density maps on the ground plane first, and then obtain the crowd locations. However, existing methods’ performances are limited by the ambiguity of the density maps in crowded areas, where local peaks can be
