@@ -21,6 +21,22 @@ Euclidean distance-based optimal transport loss on several multi-view
 crowd localization datasets.
 
 
-## Poster
+## Overview
+We release the PyTorch code for the M-MVOT, a multi-view crowd localization method with promising performance on CVCS,
+Wildtrack, and MultiviewX datasets. 
 
-![poster](https://github.com/zqyq/Mahalanobis-Distance-based-Multi-view-Optimal-Transport-for-Multi-view-Crowd-Localization/blob/main/poster.png)
+## Dependencies
+- python
+- pytorch & torchvision
+- numpy
+- matplotlib
+- pillow
+- opencv-python
+- kornia
+- tqdm
+- argparse
+- shutil
+
+
+## Training
+For training, please firstly pretrain camera-view encoder and decdoer with camera-view loss. And then load pretrained camera-view model for full pipline training with both camera-view loss and ground-plane loss.
