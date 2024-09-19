@@ -39,7 +39,7 @@ Wildtrack, and MultiviewX datasets.
 
 
 ## Training
-For training, please firstly pretrain camera-view encoder and decdoer with camera-view loss. And then load pretrained camera-view model for full pipline training with both camera-view loss and ground-plane loss.
+For training, please firstly pretrain camera-view encoder and decoder with camera-view loss. And then load pretrained camera-view model for full pipline training with both camera-view loss and ground-plane loss.
 
 ## Pretrained models
 You can download the checkpoints at this link.
