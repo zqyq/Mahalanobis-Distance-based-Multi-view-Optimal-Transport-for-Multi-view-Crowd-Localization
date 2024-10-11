@@ -41,6 +41,9 @@ Wildtrack, and MultiviewX datasets.
 ## Training
 For training, please firstly pretrain camera-view encoder and decoder with camera-view loss. And then load pretrained camera-view model for full pipline training with both camera-view loss and ground-plane loss.
 
+## Testing
+For testing on the CVCS dataset, the evaluation process involves randomly selecting five views from the view pool, which may result in non-reproducible experimental results. To ensure consistency, we provide the specific samples used in our experiments. Please refer to "CVCS_test_image_path.txt" for the details.
+
 ## Pretrained models
 You can download the checkpoints at this link.
 
