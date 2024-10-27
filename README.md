@@ -45,8 +45,7 @@ For training, first pretrain the camera-view encoder and decoder using the camer
 For testing on the CVCS dataset, the evaluation process involves randomly selecting five views from the view pool, which may result in non-reproducible experimental results. To ensure consistency, we provide the specific samples used in our experiments. Please refer to "CVCS_test_image_path.txt" for the details.
 
 ## Pretrained models
-You can download the checkpoints at this [link](https://pan.baidu.com/s/1gjH2CpdSkD7apaxx1fGxjQ?pwd=1ia3) code: 1ia3
-2D pretrained [ckpt](https://pan.baidu.com/s/1X080MEK-2jrx3Lfbba5IBw?pwd=d1rk) code: d1rk
+You can download the checkpoints at this [link](https://pan.baidu.com/s/1gjH2CpdSkD7apaxx1fGxjQ?pwd=1ia3) code: 1ia3 or 2D pretrained [ckpt](https://pan.baidu.com/s/1X080MEK-2jrx3Lfbba5IBw?pwd=d1rk) code: d1rk
 
 ## Acknowledgement
 This work was supported in parts by NSFC (62202312, U21B2023, U2001206),
