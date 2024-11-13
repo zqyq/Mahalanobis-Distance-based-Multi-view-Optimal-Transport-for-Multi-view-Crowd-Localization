@@ -1,5 +1,5 @@
 # Mahalanobis-Distance-based-Multi-view-Optimal-Transport-for-Multi-view-Crowd-Localization
-Mahalanobis Distance-based Multi-view Optimal Transport for Multi-view Crowd Localization, ECCV 2024
+Qi Zhang, Kaiyi Zhang, Antoni B. Chan and Hui Huang*, Mahalanobis Distance-based Multi-view Optimal Transport for Multi-view Crowd Localization, ECCV 2024
 
 ![mvot](https://github.com/zqyq/Mahalanobis-Distance-based-Multi-view-Optimal-Transport-for-Multi-view-Crowd-Localization/blob/main/mvot.png)
 
