@@ -54,4 +54,13 @@ DEGP Innovation Team (2022KCXTD025), City University of Hong Kong Strategic Rese
 20210811090044003, RCJC20200714114435012), Guangdong Laboratory of Artificial Intelligence and Digital Economy (SZ), and Scientific Development Funds
 from Shenzhen University.
 
-
+## Reference
+```
+@inproceedings{MVOT24,
+title={Mahalanobis-Distance-based-Multi-view-Optimal-Transport-for-Multi-view-Crowd-Localization},
+author={Qi Zhang and Kaiyi Zhang and Antoni B. Chan and Hui Huang},
+booktitle={European Conference on Computer Vision},
+pages={19--36},
+year={2024},
+}
+```
