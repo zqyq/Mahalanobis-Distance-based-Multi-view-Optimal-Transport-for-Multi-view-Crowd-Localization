@@ -15,7 +15,7 @@ which defines elliptical iso-contours in the cost function whose long-axis
 and short-axis directions are guided by the view ray direction. Second,
 the object-to-camera distance in each view is used to adjust the optimal transport cost of each location further, where the wrong predictions
 far away from the camera are more heavily penalized. Finally, we propose a strategy to consider all the input camera views in the model loss
-(M-MVOT) by computing the optimal transport cost for each groundtruth point based on its closest camera. Experiments demonstrate the
+(M-MVOT) by computing the optimal transport cost for each ground truth point based on its closest camera. Experiments demonstrate the
 advantage of the proposed method over density map-based or common
 Euclidean distance-based optimal transport loss on several multi-view
 crowd localization datasets.
@@ -57,7 +57,7 @@ from Shenzhen University.
 ## Reference
 ```
 @inproceedings{MVOT24,
-title={Mahalanobis-Distance-based-Multi-view-Optimal-Transport-for-Multi-view-Crowd-Localization},
+title={Mahalanobis Distance-based Multi-view Optimal Transport for Multi-view Crowd Localization},
 author={Qi Zhang and Kaiyi Zhang and Antoni B. Chan and Hui Huang},
 booktitle={European Conference on Computer Vision},
 pages={19--36},
